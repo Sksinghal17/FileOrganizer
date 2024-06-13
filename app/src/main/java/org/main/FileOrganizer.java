@@ -8,7 +8,7 @@ import java.util.Objects;
 
 public class FileOrganizer {
 
-  public static final String PATH = "/Users/nc23710_shubham/Downloads";
+  public static final String PATH = "YOUR_PATH";
 
   public static void main(String args[]) {
     final File folder = new File(PATH);
